@@ -36,5 +36,4 @@ let cookTheBeans = (isSoftened) => {
   });
 }
 
-
 module.exports = {shopForBeans, soakTheBeans, cookTheBeans};

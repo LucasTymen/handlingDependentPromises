@@ -139,4 +139,5 @@ Beneath your function declaration, invoke the makeBeans() function.
 
 Let’s see your async function in action! In the terminal, type node app.js and
 press enter to execute the code. (Press “Check Work” when complete to continue)
+
 */
